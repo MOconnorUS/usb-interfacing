@@ -9,7 +9,7 @@
 5. The AVR-GCC package installed and added to your PATH
 6. Git installed
 7. Install Python and add it to your PATH
-8. Install FDTI drivers to ensure your SH-U09C is detected via the COM port
+8. Install FTDI drivers to ensure your SH-U09C is detected via the COM port
 
 Once you have everything, follow the detailed guide below on how to set everything up and execute the project.
 
@@ -57,8 +57,8 @@ To install Git visit this [link](https://git-scm.com/downloads) and install the 
 # Installing Python
 To install python visit this [link](https://www.python.org/downloads/) and install the latest version of Python. To add Python to the PATH follow the the same steps used to add AVR-GCC to the PATH.
 
-# Installing FDTI Drivers
-To install the FDTI drivers visit this [link](https://ftdichip.com/drivers/vcp-drivers/) and install both the setup executable and the 64-Bit windows download.
+# Installing FTDI Drivers
+To install the FTDI drivers visit this [link](https://ftdichip.com/drivers/vcp-drivers/) and install both the setup executable and the 64-Bit windows download.
 
 ---
 # After completed everything above, the following will allow you to access and run the project
