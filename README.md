@@ -79,6 +79,8 @@ Open the compile script in your IDE and change the path where it says path_win_a
 # How to run
 Once you have completed everything above... Congratulations you are ready to run the project! Simply plug the SH-U09C into your laptop, make sure the COM port in the compile_script is correct, open your command prompt navigated to the correct folder, and type in: ` python compile_script.py 4 `
 
+* Note if you are using an Arduino Uno R3 or an Arduino Mini board you need to hold the reset button on the board when the script compiles and release when it begins to upload
+
 ---
 
 # Demo
