@@ -42,13 +42,13 @@ If you had any trouble following along with these instructions a picture guide w
 - Step 3
 ![Search Environment Variables](/assests/images/search_ev.png "Search Environment Variables")
 - Step 4
-![Environment Variables](/assests/images/environment_variables_w1.png "Environment Variables")
+![Environment Variables](/assests/images/environment_variables_w1.PNG "Environment Variables")
 - Steps 5, 6
-![Select Path](/assests/images/environment_variables_w2.png "Select Path")
+![Select Path](/assests/images/environment_variables_w2.PNG "Select Path")
 - Steps 7, 8
 ![Copy Path](/assests/images/copy_path.png "Copy Path")
 - Step 9
-![Paste Path](/assests/images/environment_variables_w3.png "Paste Path")
+![Paste Path](/assests/images/environment_variables_w3.PNG "Paste Path")
 
 # Installing Git
 To install Git visit this [link](https://git-scm.com/downloads) and install the latest version of Git.
