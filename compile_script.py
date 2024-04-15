@@ -31,7 +31,6 @@ else:
 
 level_of_compilation = int(sys.argv[1])
 
-#path_win_avr = 'c:/Users/jamiespa/Downloads/avr-gcc-10.1.0-x64-windows/bin/'
 path_win_avr = 'C:/Users/oconn/avr-gcc-13.2.0-x64-windows/bin/'
 
 if level_of_compilation == 0: 
