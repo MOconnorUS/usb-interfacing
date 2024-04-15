@@ -65,16 +65,21 @@ To install the FDTI drivers visit this [link](https://ftdichip.com/drivers/vcp-d
 Now that the installations are all complete all that is left for you to do is clone the repository and change one file path!
 
 # How to clone the repository
-1. Open Command prompt *type "cmd" into the search bar on your windows device*
-2. Navigate to your the folder you wish to clone the repository in *this can be done by typing cd directory_name*
+1. Open Command prompt type `cmd` into the search bar on your windows device
+2. Navigate to your the folder you wish to clone the repository in this can be done by typing `cd file_path_to_directory`
 3. Click on the green code button on the repository
 4. Copy the github link provided in the drop down
 5. Type: git clone github_link *github_link is the url provided by github which can be pasted by right clicking on the command prompt*
 
 # Fix the file path
-Open the compile script in your IDE and change the path where it says path_win_avr to your AVR-GCC pathing you added to your PATH but add "/bin/" to the end of it.
+Open the compile script in your IDE and change the path where it says path_win_avr to your AVR-GCC pathing you added to your PATH but add `/bin/` to the end of it.
 
 ---
 
 # How to run
-Once you have completed everything above... Congratulations you are ready to run the project! Simply plug the SH-U09C into your laptop, make sure the COM port in the compile_script is correct, open your command prompt navigated to the correct folder, and type in python compile_script.py 4
+Once you have completed everything above... Congratulations you are ready to run the project! Simply plug the SH-U09C into your laptop, make sure the COM port in the compile_script is correct, open your command prompt navigated to the correct folder, and type in: ` python compile_script.py 4 `
+
+---
+
+# Demo
+Here is a [link](https://youtube.com/shorts/3-exS6YY4Po) to the demo of my project
